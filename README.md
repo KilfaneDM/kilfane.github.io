@@ -10,7 +10,7 @@ I can also do modeling in Blender, and am proficient in the Unity game engine.
 Am comfortable working on either Windows or Linux-Based Operating systems.  
 
 # Projects
-Am currently working on an unnamed game as a side project, it is not very far along at the moment.  
+I am currently working on an unnamed game as a side project, it is not very far along at the moment.  
 In high school, I helped program a golf playing robot for a robotics competition at Acadia University; our team took 13th out of 50 teams.  
 
 # Experience
