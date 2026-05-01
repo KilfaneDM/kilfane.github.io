@@ -1,3 +1,5 @@
 main:
+  - title: "Drone Photography"
+    url: /photos/drone/
   - title: "Photography"
-    url: /photography/
+    url: /photos/ground/
