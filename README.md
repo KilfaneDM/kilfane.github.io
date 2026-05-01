@@ -2,7 +2,7 @@
 layout: single
 ---
 # About Me
-My name is Daren Murray. I am currently working on earning an IT: Software Developer certificate from New Brunswick Community College.  
+My name is Balls Daren Murray. I am currently working on earning an IT: Software Developer certificate from New Brunswick Community College.  
 I've been using computers for almost my whole life, but have only been learning programming for a few years now.  
 I also compete at a national level in the fighting game Tekken 8.  
 
