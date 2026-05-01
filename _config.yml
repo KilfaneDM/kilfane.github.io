@@ -7,11 +7,8 @@ author:
   email: "bleckolshnork64@gmail.com"
 
 gallery:
-  dir: photos
+  dir: assets/images
   symlink: false
-  title: "Photos - %s"
-  title_words: 4
-  sort_field: "date_time"
   galleries:
     - dir: drone
       name: "Drone Photography"
