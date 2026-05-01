@@ -1,6 +1,11 @@
 repository: KilfaneDM/KilfaneDM.github.io
 theme: minimal-mistakes-jekyll
-repository: KilfaneDM/KilfaneDM.github.io
+
+author:
+  name: "Daren Murray"
+  bio: "IT Software Developer student at NBCC"
+  email: "bleckolshnork64@gmail.com"
+  
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
