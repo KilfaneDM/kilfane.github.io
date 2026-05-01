@@ -1,5 +1,6 @@
 repository: KilfaneDM/KilfaneDM.github.io
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+repository: KilfaneDM/KilfaneDM.github.io
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
