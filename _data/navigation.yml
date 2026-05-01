@@ -1,5 +1,5 @@
 main:
   - title: "Drone Photography"
-    url: /_pages/drone.md
+    url: /drone/
   - title: "Photography"
-    url: /_pages/ground.md
+    url: /ground/
