@@ -7,8 +7,16 @@ author:
   email: "bleckolshnork64@gmail.com"
 
 gallery:
-  dir: assets/images/drone
+  dir: photos
   symlink: false
+  title: "Photos - %s"
+  title_words: 4
+  sort_field: "date_time"
+  galleries:
+    - dir: drone
+      name: "Drone Photography"
+    - dir: ground
+      name: "Photography"
 
 plugins:
   - jekyll-remote-theme
