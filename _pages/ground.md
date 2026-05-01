@@ -6,6 +6,15 @@ gallery_path: assets/images/ground
 ---
 
 <style>
+.page__content {
+  width: 100%;
+  max-width: 100%;
+}
+.page {
+  width: 100%;
+  max-width: 100%;
+  padding: 0;
+}
 .photo-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -15,6 +24,7 @@ gallery_path: assets/images/ground
   width: auto;
   height: 100%;
   object-fit: contain;
+  cursor: pointer;
 }
 
 /* Lightbox */
