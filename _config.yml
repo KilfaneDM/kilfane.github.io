@@ -5,7 +5,11 @@ author:
   name: "Daren Murray"
   bio: "IT Software Developer student at NBCC"
   email: "bleckolshnork64@gmail.com"
-  
+
+gallery:
+  dir: assets/images/drone
+  symlink: false
+
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
