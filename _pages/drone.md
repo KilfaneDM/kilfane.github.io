@@ -12,10 +12,9 @@ gallery_path: assets/images/drone
   gap: 10px;
 }
 .photo-grid a img {
-  width: 100%;
-  height: 250px;
-  object-fit: cover;
-  cursor: pointer;
+  width: auto;
+  height: 100%;
+  object-fit: contain;
 }
 
 /* Lightbox */
